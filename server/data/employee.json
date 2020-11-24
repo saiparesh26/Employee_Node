@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Sai Paresh",
+    "age": "26",
+    "dob": "26-09-1994",
+    "designation": "Software Engineer",
+    "joiningDate": "01-08-2018"
+  },
+  {
+    "id": 2,
+    "name": "Sanketh Menon",
+    "age": "26",
+    "dob": "10-05-1994",
+    "designation": "Software Engineer",
+    "joiningDate": "15-10-2018"
+  },
+  {
+    "id": 3,
+    "name": "Priyanka Banerjee",
+    "age": "25",
+    "dob": "05-03-1995",
+    "designation": "Accountant",
+    "joiningDate": "15-02-2019"
+  },
+  {
+    "id": 4,
+    "name": "Anchal Rana",
+    "age": "25",
+    "dob": "05-03-1995",
+    "designation": "Accountant"
+  }
+]
